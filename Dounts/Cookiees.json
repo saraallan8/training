@@ -1,6 +1,7 @@
 [
 	{
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"id": "0001",
 =======
 		"id": "00155",
@@ -8,6 +9,23 @@
 		"type": "donut",
 		"name": "Cake",
 		"ppu": 0.55,
+=======
+sarabranch
+    
+	[
+    {"id": "0001"},
+  {"type": "donut"},
+  {	"name": "Cake"},
+  {"ppu": 0.55},
+]
+[
+{"id": "00012"},
+{"type": "donut"},
+{	"name": "Cake"},
+{	"ppu": 0.65},
+]
+ main
+>>>>>>> 9f1b5e6a819cf5a08a8c3181428b6e3e24d752d7
 		"batters":
 			{
 				"batter":
@@ -70,5 +88,5 @@
 				{ "id": "5003", "type": "Chocolate" },
 				{ "id": "5004", "type": "Maple" }
 			]
-	}
+	},
 ]
